@@ -5,7 +5,7 @@
 This repository provides a Streamlit application to calculate the cosine similarity between two uploaded documents for plagiarism or job fit assessment.
 
 The app is deployed on streamlit server and can be run at: 
-[Resume Match - A Streamlit app](https://share.streamlit.io/kashifm777/resumematch/main/ResumeMatch.py)
+[Resume Match](https://resume-match-mk.streamlit.app)
 
 ### 1. Features
 
